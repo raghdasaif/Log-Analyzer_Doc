@@ -5,7 +5,7 @@ This project implements an **event-driven data engineering pipeline** that monit
 Using a **Medallion Architecture (Bronze → Silver → Gold)**, raw unstructured logs are transformed into **high-value, analytics-ready datasets** stored in optimized **Apache Parquet** format.
 
 ---
-![Workflow Diagram](log%20analyzer%20architecture.png  "Architecture")
+![Workflow Diagram](log_ana_ar_diagram.png  "Architecture")
 ## Architecture Overview
 
 The pipeline follows a **four-stage lifecycle**:
